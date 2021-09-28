@@ -1,4 +1,4 @@
-#a program that computes a given integer power of given number
+#a program that computes a given integer power of given number using for loop
 
 def main():
     number = int(input("Enter a number:" ))
