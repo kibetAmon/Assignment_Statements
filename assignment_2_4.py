@@ -4,8 +4,9 @@ def main():
     number = int(input("Enter a number:" ))
     expo = int(input("Enter the power: "))
 
-    for expo in range(expo+1):
+    for expo in range(expo + 1):
         answer = number ** expo
-        print("answer is: ", answer)
+
+    print("answer is: ", answer)
 
 main()
